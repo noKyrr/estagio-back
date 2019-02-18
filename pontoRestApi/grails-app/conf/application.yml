@@ -140,7 +140,7 @@ environments:
         dataSource:
             dbCreate: update
            # url: jdbc:mysql://localhost:3306/ponto
-            url: jdbc:postgresql://gcnasohtatgsuc:b0a769e2dc7b5b840177d84fb47b7a1dddb682b470d0f80a58c4682604ef6a5b@ec2-23-21-128-35.compute-1.amazonaws.com:5432/d3165etku2loer
+            url: jdbc:postgresql://ec2-23-21-128-35.compute-1.amazonaws.com:5432/d3165etku2loer?sslmode=require
 
             properties:
                 jmxEnabled: true
