@@ -1,0 +1,8 @@
+import pontorestapi.LocalDeTrabalho
+
+model {
+	Iterable<LocalDeTrabalho> localDeTrabalhoList
+}
+
+json tmpl.localDeTrabalho(localDeTrabalhoList ?: [])
+

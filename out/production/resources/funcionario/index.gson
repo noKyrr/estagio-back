@@ -1,0 +1,8 @@
+import pontorestapi.Funcionario
+
+model {
+	Iterable<Funcionario> funcionarioList
+}
+
+json tmpl.funcionario(funcionarioList ?: [])
+

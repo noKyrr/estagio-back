@@ -1,0 +1,8 @@
+import pontorestapi.Empresa
+
+model {
+	Iterable<Empresa> empresasList
+}
+
+json tmpl.empresas(empresasList ?: [])
+

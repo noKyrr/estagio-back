@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pontoRestApi.iml" filepath="$PROJECT_DIR$/pontoRestApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pontoRestApi_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pontoRestApi_integrationTest.iml" group="pontoRestApi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pontoRestApi_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pontoRestApi_main.iml" group="pontoRestApi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pontoRestApi_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pontoRestApi_test.iml" group="pontoRestApi" />
+    </modules>
+  </component>
+</project>

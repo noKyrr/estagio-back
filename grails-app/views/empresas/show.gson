@@ -1,0 +1,7 @@
+import pontorestapi.Empresa
+
+model {
+	Empresa empresas
+}
+
+json tmpl.empresas(empresas)
