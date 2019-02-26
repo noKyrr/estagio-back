@@ -27,12 +27,15 @@
     </content>
     <content url="file://$MODULE_DIR$/../../src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../src/main/groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: org.grails.plugins:postgresql-extensions:6.1.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.tomcat.embed:tomcat-embed-el:8.5.29" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-tomcat:1.5.12.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-logging:1.5.12.RELEASE" level="project" />
-    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-autoconfigure:1.5.12.RELEASE" level="project" />
     <orderEntry type="module-library" scope="RUNTIME">
       <library>
         <CLASSES>
@@ -42,9 +45,9 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-autoconfigure:1.5.12.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-core:3.3.5" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-actuator:1.5.12.RELEASE" level="project" />
-    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-tomcat:1.5.12.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-plugin-url-mappings:3.3.5" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-plugin-rest:3.3.5" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-plugin-codecs:3.3.5" level="project" />
@@ -88,9 +91,6 @@
     <orderEntry type="library" name="Gradle: xalan:serializer:2.7.2" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter:1.5.12.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-actuator:1.5.12.RELEASE" level="project" />
-    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-core:8.5.29" level="project" />
-    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-el:8.5.29" level="project" />
-    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.29" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-web:3.3.5" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-plugin-controllers:3.3.5" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-validation:3.3.5" level="project" />
@@ -119,11 +119,13 @@
     <orderEntry type="library" name="Gradle: dom4j:dom4j:1.6.1" level="project" />
     <orderEntry type="library" name="Gradle: org.hibernate.common:hibernate-commons-annotations:5.0.1.Final" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:views-core:1.2.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-core:8.5.29" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-logging-juli:8.5.2" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-jasper:8.5.29" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-jasper:8.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-jasper-el:8.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-jsp-api:8.5.29" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.29" level="project" />
     <orderEntry type="library" name="Gradle: com.beust:jcommander:1.48" level="project" />
     <orderEntry type="library" name="Gradle: commons-io:commons-io:2.5" level="project" />
     <orderEntry type="library" name="Gradle: net.sf.ehcache:ehcache-core:2.4.3" level="project" />
@@ -133,12 +135,11 @@
     <orderEntry type="library" name="Gradle: org.springframework:spring-expression:4.3.16.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-xml:2.4.15" level="project" />
     <orderEntry type="library" name="Gradle: org.codehaus.groovy:groovy-templates:2.4.15" level="project" />
-    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.17" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: javax.el:el-api:2.1.2-b03" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.tomcat:tomcat-juli:8.5.29" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.17" level="project" />
     <orderEntry type="library" name="Gradle: javax.transaction:jta:1.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.tomcat:tomcat-juli:8.5.29" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.8.11.1" level="project" />
-    <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-annotations-api:8.5.29" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-web-databinding:3.3.5" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-web-url-mappings:3.3.5" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-web-mvc:3.3.5" level="project" />
@@ -161,6 +162,7 @@
     <orderEntry type="library" name="Gradle: org.hibernate:hibernate-validator:5.3.6.Final" level="project" />
     <orderEntry type="library" name="Gradle: javax.el:javax.el-api:2.2.4" level="project" />
     <orderEntry type="library" name="Gradle: xml-apis:xml-apis:1.4.01" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-annotations-api:8.5.29" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jdt:ecj:3.12.3" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-juli:8.5.11" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jdt.core.compiler:ecj:4.5.1" level="project" />

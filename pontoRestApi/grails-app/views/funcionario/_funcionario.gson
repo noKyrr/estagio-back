@@ -1,7 +1,0 @@
-import pontorestapi.Funcionario
-
-model {
-	Funcionario funcionario
-}
-
-json g.render(funcionario, [resolveTemplate: false])

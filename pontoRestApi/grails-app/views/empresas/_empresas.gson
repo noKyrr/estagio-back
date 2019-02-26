@@ -1,7 +1,0 @@
-import pontorestapi.Empresa
-
-model {
-	Empresa empresas
-}
-
-json g.render(empresas, [resolveTemplate: false])

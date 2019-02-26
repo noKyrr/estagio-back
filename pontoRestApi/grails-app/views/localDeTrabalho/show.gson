@@ -1,7 +1,0 @@
-import pontorestapi.LocalDeTrabalho
-
-model {
-	LocalDeTrabalho localDeTrabalho
-}
-
-json tmpl.localDeTrabalho(localDeTrabalho)

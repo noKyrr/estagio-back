@@ -1,7 +1,0 @@
-import pontorestapi.LocalDeTrabalho
-
-model {
-	LocalDeTrabalho localDeTrabalho
-}
-
-json g.render(localDeTrabalho, [resolveTemplate: false])
