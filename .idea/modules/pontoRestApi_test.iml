@@ -24,10 +24,10 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.tomcat.embed:tomcat-embed-el:8.5.29" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-tomcat:1.5.12.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.tomcat.embed:tomcat-embed-el:8.5.29" level="project" />
     <orderEntry type="library" name="Gradle: org.grails.plugins:postgresql-extensions:6.1.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.postgresql:postgresql:9.4.1211.jre7" level="project" />
+    <orderEntry type="library" name="Gradle: org.postgresql:postgresql:42.2.5" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-logging:1.5.12.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-autoconfigure:1.5.12.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-core:3.3.5" level="project" />
@@ -53,8 +53,8 @@
     <orderEntry type="library" name="Gradle: org.grails:grails-datastore-rest-client:6.1.9.RELEASE" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: mysql:mysql-connector-java:5.1.46" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-web-testing-support:1.1.4" level="project" />
-    <orderEntry type="library" name="Gradle: org.grails.plugins:geb:1.1.2" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish.web:el-impl:2.1.2-b03" level="project" />
+    <orderEntry type="library" name="Gradle: org.grails.plugins:geb:1.1.2" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.h2database:h2:1.4.197" level="project" />
     <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.2" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.tomcat:tomcat-jdbc:8.5.29" level="project" />
@@ -144,12 +144,12 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: xalan:xalan:2.7.2" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-web-gsp:3.3.1" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-web-sitemesh:3.3.1" level="project" />
-    <orderEntry type="library" name="Gradle: org.grails:grails-plugin-mimetypes:3.3.5" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.commons:commons-lang3:3.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.grails:grails-plugin-mimetypes:3.3.5" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.httpcomponents:httpmime:4.5.5" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-plugin-validation:3.3.5" level="project" />
-    <orderEntry type="library" name="Gradle: org.grails:grails-plugin-i18n:3.3.5" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: net.sourceforge.htmlunit:htmlunit-core-js:2.17" level="project" />
+    <orderEntry type="library" name="Gradle: org.grails:grails-plugin-i18n:3.3.5" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: xerces:xercesImpl:2.11.0" level="project" />
     <orderEntry type="library" name="Gradle: org.grails:grails-datastore-gorm-validation:6.1.9.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: commons-lang:commons-lang:2.6" level="project" />

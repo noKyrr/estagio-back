@@ -1,5 +1,6 @@
 dependencies:
 - file:/C:/Users/Victor/.gradle/caches/modules-2/files-2.1/org.grails.plugins/postgresql-extensions/6.1.0/eb8864bfdfb110a762bc151902ecba88180c04aa/postgresql-extensions-6.1.0.jar
+- file:/C:/Users/Victor/.m2/repository/org/postgresql/postgresql/42.2.5/postgresql-42.2.5.jar
 - file:/C:/Users/Victor/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.5.12.RELEASE/88b9a16ff87f0a7faec7848e9a5626ffbbac588f/spring-boot-starter-logging-1.5.12.RELEASE.jar
 - file:/C:/Users/Victor/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.5.12.RELEASE/932ab2609793ebc00576cbae77085bb83e5c9008/spring-boot-autoconfigure-1.5.12.RELEASE.jar
 - file:/C:/Users/Victor/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.3.5/8044ecc48da9a8427953ffb1b7fe0a169b5b75eb/grails-core-3.3.5.jar
@@ -21,7 +22,6 @@ dependencies:
 - file:/C:/Users/Victor/.gradle/caches/modules-2/files-2.1/org.grails.plugins/views-json/1.2.7/c0aa3d0b3c2f97b07c1611700c4c37436081b39d/views-json-1.2.7.jar
 - file:/C:/Users/Victor/.gradle/caches/modules-2/files-2.1/org.grails.plugins/views-json-templates/1.2.7/7312142ef6317d8bc6a2e09264153faa2c02e577/views-json-templates-1.2.7.jar
 - file:/C:/Users/Victor/.gradle/caches/modules-2/files-2.1/com.github.jsimone/webapp-runner/8.5.11.3/16054a160c454e65c65c2236a18a202451a37085/webapp-runner-8.5.11.3.jar
-- file:/C:/Users/Victor/.gradle/caches/modules-2/files-2.1/org.postgresql/postgresql/9.4.1211.jre7/56b01e9e667f408818a6ef06a89598dbab80687d/postgresql-9.4.1211.jre7.jar
 - file:/C:/Users/Victor/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.5.12.RELEASE/a4e81f071d2b5a9c9fb5a219b361b683a8eb3d91/spring-boot-starter-tomcat-1.5.12.RELEASE.jar
 - file:/C:/Users/Victor/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.46/9a3e63b387e376364211e96827bc27db8d7a92e9/mysql-connector-java-5.1.46.jar
 - file:/C:/Users/Victor/.gradle/caches/modules-2/files-2.1/org.glassfish.web/el-impl/2.1.2-b03/6bab1211b6e6b191fdbf06067bd05d2f75a62ac0/el-impl-2.1.2-b03.jar

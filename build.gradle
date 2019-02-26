@@ -32,7 +32,7 @@ repositories {
 dependencies {
     runtime 'mysql:mysql-connector-java:5.1.46'
     compile 'org.grails.plugins:postgresql-extensions:6.1.0'
-    compile 'org.postgresql:postgresql:9.4.1211.jre7'
+    compile group: 'org.postgresql', name: 'postgresql', version: '42.2.5'
 
     compile "org.springframework.boot:spring-boot-starter-logging"
     compile "org.springframework.boot:spring-boot-autoconfigure"

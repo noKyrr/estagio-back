@@ -40,7 +40,6 @@
           <element id="library" level="project" name="Gradle: org.grails.plugins:views-json:1.2.7" />
           <element id="library" level="project" name="Gradle: org.grails.plugins:views-json-templates:1.2.7" />
           <element id="library" level="project" name="Gradle: com.github.jsimone:webapp-runner:8.5.11.3" />
-          <element id="library" level="project" name="Gradle: org.postgresql:postgresql:9.4.1211.jre7" />
           <element id="library" level="project" name="Gradle: com.google.code.gson:gson:2.8.2" />
           <element id="library" level="project" name="Gradle: org.hibernate:hibernate-ehcache:5.0.12.Final" />
           <element id="library" level="project" name="Gradle: ch.qos.logback:logback-classic:1.1.11" />
@@ -110,8 +109,8 @@
           <element id="library" level="project" name="Gradle: org.codehaus.groovy:groovy-templates:2.4.15" />
           <element id="library" level="project" name="Gradle: javax.el:el-api:2.1.2-b03" />
           <element id="library" level="project" name="Gradle: org.yaml:snakeyaml:1.17" />
-          <element id="library" level="project" name="Gradle: javax.transaction:jta:1.1" />
           <element id="library" level="project" name="Gradle: org.apache.tomcat:tomcat-juli:8.5.29" />
+          <element id="library" level="project" name="Gradle: javax.transaction:jta:1.1" />
           <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.8.11.1" />
           <element id="library" level="project" name="Gradle: org.grails:grails-web-databinding:3.3.5" />
           <element id="library" level="project" name="Gradle: org.grails:grails-web-url-mappings:3.3.5" />
@@ -150,6 +149,7 @@
           <element id="library" level="project" name="Gradle: commons-collections:commons-collections:3.2.2" />
           <element id="library" level="project" name="Gradle: org.apache.tomcat:tomcat-el-api:8.5.29" />
           <element id="library" level="project" name="Gradle: org.apache.tomcat:tomcat-servlet-api:8.5.29" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.5/postgresql-42.2.5.jar" />
         </element>
       </element>
     </root>
