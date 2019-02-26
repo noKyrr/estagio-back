@@ -1,0 +1,99 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pontoRestApi:war exploded">
+    <output-path>$PROJECT_DIR$/target/pontoRestApi-0.1</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>pontoRestApi</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pontoRestApi" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.grails.plugins:postgresql-extensions:6.1.0" />
+          <element id="library" level="project" name="Maven: org.postgresql:postgresql:42.2.5" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-logging:1.5.12.RELEASE" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.1.11" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.11" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.25" />
+          <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.25" />
+          <element id="library" level="project" name="Maven: org.slf4j:log4j-over-slf4j:1.7.25" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.5.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.16.RELEASE" />
+          <element id="library" level="project" name="Maven: org.grails:grails-core:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-actuator:1.5.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:1.5.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.17" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-actuator:1.5.12.RELEASE" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.11.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.11" />
+          <element id="library" level="project" name="Maven: org.grails:grails-plugin-url-mappings:unknown" />
+          <element id="library" level="project" name="Maven: org.grails:grails-plugin-rest:unknown" />
+          <element id="library" level="project" name="Maven: org.grails:grails-plugin-codecs:unknown" />
+          <element id="library" level="project" name="Maven: org.grails:grails-plugin-interceptors:unknown" />
+          <element id="library" level="project" name="Maven: org.grails:grails-plugin-services:unknown" />
+          <element id="library" level="project" name="Maven: org.grails:grails-plugin-datasource:unknown" />
+          <element id="library" level="project" name="Maven: org.grails:grails-plugin-databinding:unknown" />
+          <element id="library" level="project" name="Maven: org.grails:grails-web-boot:unknown" />
+          <element id="library" level="project" name="Maven: org.grails:grails-logging:unknown" />
+          <element id="library" level="project" name="Maven: org.grails.plugins:cache:unknown" />
+          <element id="library" level="project" name="Maven: org.grails.plugins:async:unknown" />
+          <element id="library" level="project" name="Maven: org.grails.plugins:events:unknown" />
+          <element id="library" level="project" name="Maven: org.grails.plugins:hibernate5:unknown" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-core:5.1.5.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.3.2.Final" />
+          <element id="library" level="project" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.21.0-GA" />
+          <element id="library" level="project" name="Maven: antlr:antlr:2.7.7" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-jta_1.1_spec:1.1.1" />
+          <element id="library" level="project" name="Maven: org.jboss:jandex:2.0.3.Final" />
+          <element id="library" level="project" name="Maven: com.fasterxml:classmate:1.3.4" />
+          <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+          <element id="library" level="project" name="Maven: org.hibernate.common:hibernate-commons-annotations:5.0.1.Final" />
+          <element id="library" level="project" name="Maven: org.grails.plugins:views-json:unknown" />
+          <element id="library" level="project" name="Maven: org.grails.plugins:views-json-templates:unknown" />
+          <element id="library" level="project" name="Maven: com.github.jsimone:webapp-runner:8.5.11.3" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.5.29" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-annotations-api:8.5.29" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-logging-juli:8.5.2" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-jasper:8.5.29" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.5.29" />
+          <element id="library" level="project" name="Maven: org.eclipse.jdt:ecj:3.12.3" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jasper:8.5.11" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-servlet-api:8.5.11" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-el-api:8.5.11" />
+          <element id="library" level="project" name="Maven: org.eclipse.jdt.core.compiler:ecj:4.5.1" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-api:8.5.11" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-util-scan:8.5.11" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-util:8.5.11" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jasper-el:8.5.11" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jsp-api:8.5.29" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.29" />
+          <element id="library" level="project" name="Maven: com.beust:jcommander:1.48" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.5" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.46" />
+          <element id="library" level="project" name="Maven: org.glassfish.web:el-impl:2.1.2-b03" />
+          <element id="library" level="project" name="Maven: javax.el:el-api:2.1.2-b03" />
+          <element id="library" level="project" name="Maven: com.h2database:h2:1.4.197" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jdbc:8.5.29" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-juli:8.5.29" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/pontoRestApi-0.1/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="pontoRestApi/web/Web" />
+    </root>
+  </artifact>
+</component>

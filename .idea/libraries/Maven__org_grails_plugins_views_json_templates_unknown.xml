@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.grails.plugins:views-json-templates:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/plugins/views-json-templates/unknown/views-json-templates-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/plugins/views-json-templates/unknown/views-json-templates-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/plugins/views-json-templates/unknown/views-json-templates-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -17,7 +17,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="pontoRestApi_main" />
     <orderEntry type="module" module-name="pontoRestApi_test" production-on-test="" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.tomcat.embed:tomcat-embed-el:8.5.29" level="project" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -28,6 +27,7 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-tomcat:1.5.12.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.tomcat.embed:tomcat-embed-el:8.5.29" level="project" />
     <orderEntry type="library" name="Gradle: org.grails.plugins:postgresql-extensions:6.1.0" level="project" />
     <orderEntry type="library" name="Gradle: org.postgresql:postgresql:42.2.5" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-logging:1.5.12.RELEASE" level="project" />

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.grails.plugins:geb:1.1.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/plugins/geb/1.1.2/geb-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/plugins/geb/1.1.2/geb-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/plugins/geb/1.1.2/geb-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pontoRestApi:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>pontoRestApi</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="pontoRestApi-0.1.war">
+      <element id="artifact" artifact-name="pontoRestApi:war exploded" />
+    </root>
+  </artifact>
+</component>

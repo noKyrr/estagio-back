@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.grails:grails-plugin-datasource:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-plugin-datasource/unknown/grails-plugin-datasource-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-plugin-datasource/unknown/grails-plugin-datasource-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-plugin-datasource/unknown/grails-plugin-datasource-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

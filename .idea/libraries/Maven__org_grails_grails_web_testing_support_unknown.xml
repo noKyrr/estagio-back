@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.grails:grails-web-testing-support:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-web-testing-support/unknown/grails-web-testing-support-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-web-testing-support/unknown/grails-web-testing-support-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-web-testing-support/unknown/grails-web-testing-support-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

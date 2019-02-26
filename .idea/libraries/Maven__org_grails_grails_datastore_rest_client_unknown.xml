@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.grails:grails-datastore-rest-client:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-datastore-rest-client/unknown/grails-datastore-rest-client-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-datastore-rest-client/unknown/grails-datastore-rest-client-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-datastore-rest-client/unknown/grails-datastore-rest-client-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
