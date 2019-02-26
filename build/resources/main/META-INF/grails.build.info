@@ -1,6 +1,6 @@
-#Mon, 25 Feb 2019 21:16:01 -0300
+#Mon, 25 Feb 2019 22:41:58 -0300
 
 info.app.version=0.1
 info.app.name=pontoRestApi
-grails.env=production
+grails.env=development
 info.app.grailsVersion=3.3.5

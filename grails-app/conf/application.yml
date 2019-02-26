@@ -118,7 +118,8 @@ dataSource:
    pooled: true
    jmxExport: true
    driverClassName: org.postgresql.Driver
-   dialect: net.kaleidos.hibernate.PostgresqlExtensionsDialect
+   dialect: org.hibernate.dialect.PostgreSQLDialect
+   #dialect: net.kaleidos.hibernate.PostgresqlExtensionsDialect
    username: gcnasohtatgsuc
    password: 'b0a769e2dc7b5b840177d84fb47b7a1dddb682b470d0f80a58c4682604ef6a5b'
 
