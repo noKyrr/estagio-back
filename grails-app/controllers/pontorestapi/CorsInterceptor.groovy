@@ -22,7 +22,7 @@ class CorsInterceptor {
 
         response.setHeader("Access-Control-Allow-Methods",
                 "POST,GET,PUT,OPTIONS,DELETE");
-        response.setHeader("Access-Control-Max-Age", Long.toString(60 * 60));
+        response.setHeader("Access-Control-Max-Age", Long.toString(60 * 61));
         response.setHeader("Access-Control-Allow-Credentials", "true");
         response.setHeader(
                 "Access-Control-Allow-Headers",
