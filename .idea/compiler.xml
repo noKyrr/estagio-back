@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="pontoRestApi" target="1.5" />
+      <module name="pontoRestApi" target="1.7" />
       <module name="pontoRestApi_integrationTest" target="1.8" />
       <module name="pontoRestApi_main" target="1.8" />
       <module name="pontoRestApi_test" target="1.8" />
