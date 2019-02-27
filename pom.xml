@@ -111,7 +111,7 @@
     <dependency>
       <groupId>org.grails.plugins</groupId>
       <artifactId>cache</artifactId>
-      <version>1.1.8</version>
+      <version>4.0.1</version>
     </dependency>
     <dependency>
       <groupId>org.grails.plugins</groupId>
