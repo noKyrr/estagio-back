@@ -10,16 +10,7 @@ class CorsInterceptor {
 
     boolean before() {
         log.println("Entering action ${actionName} ${request.getRequestURL()} $request.getParameterValues()")
-       /* header( "Access-Control-Allow-Origin", "http://localhost:8081" )
-        header( "Access-Control-Allow-Credentials", "true" )
-        header( "Access-Control-Allow-Methods", "POST, GET, PUT, OPTIONS, DELETE" )
-        header("Access-Control-Allow-Headers", "content-type")
-        //header( "Access-Control-Max-Age", "3600" )
-*/
-
-
         response.setHeader("Access-Control-Allow-Origin", "*");
-
         response.setHeader("Access-Control-Allow-Methods",
                 "POST,GET,PUT,OPTIONS,DELETE");
         response.setHeader("Access-Control-Max-Age", Long.toString(60 * 61));
