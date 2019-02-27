@@ -1,3 +1,6 @@
 pontorestapi.$EmpresasServiceImplementation
 pontorestapi.$FuncionarioServiceImplementation
 pontorestapi.$LocalDeTrabalhoServiceImplementation
+pontorestapi.$FuncionarioServiceImplementation
+pontorestapi.$LocalDeTrabalhoServiceImplementation
+pontorestapi.$EmpresasServiceImplementation
