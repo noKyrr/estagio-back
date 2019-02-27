@@ -12,6 +12,7 @@
     <list default="true" id="1000106a-3ca9-4d09-bd15-e458ec2a8f39" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grails-app/conf/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/grails-app/conf/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grails-app/controllers/pontorestapi/CorsInterceptor.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/grails-app/controllers/pontorestapi/CorsInterceptor.groovy" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -30,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+              <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -57,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/pontorestapi/CorsInterceptor.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -122,7 +123,6 @@
         <option value="$PROJECT_DIR$/grails-app/views/empresa/show.gson" />
         <option value="$PROJECT_DIR$/src/main/java/CorsFilter.java" />
         <option value="$PROJECT_DIR$/grails-app/controllers/pontorestapi/EmpresaController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/pontorestapi/CorsInterceptor.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/pontorestapi/Empresas.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/pontorestapi/EmpresasController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/pontorestapi/Relogio.groovy" />
@@ -159,6 +159,7 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/grails-app/conf/application.yml" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/pontorestapi/CorsInterceptor.groovy" />
       </list>
     </option>
   </component>
@@ -219,6 +220,25 @@
               <item name="pontoRestApi" type="b2602c69:ProjectViewProjectNode" />
               <item name="estagio-back" type="462c0819:PsiDirectoryNode" />
               <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pontoRestApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="estagio-back" type="462c0819:PsiDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="pontorestapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pontoRestApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="estagio-back" type="462c0819:PsiDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pontoRestApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="estagio-back" type="462c0819:PsiDirectoryNode" />
+              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -240,7 +260,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551234822710" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551235104653" />
     <property name="dynamic.classpath" value="true" />
     <property name="grails.last.selected.app.url" value="file://$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -345,12 +365,12 @@
       <workItem from="1549927321008" duration="2000000" />
       <workItem from="1549993358062" duration="44000" />
       <workItem from="1550503803414" duration="5812000" />
-      <workItem from="1551216450980" duration="12278000" />
+      <workItem from="1551216450980" duration="12560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119950000" />
+    <option name="totallyTimeSpent" value="120232000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,7 +385,7 @@
     <frame x="-8" y="-8" width="1843" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25182277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25182277" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -382,7 +402,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49715677" weight="0.32914045" />
       <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49959382" weight="0.32914045" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49242848" visible="true" weight="0.317757" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49242848" visible="true" weight="0.317757" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5075715" side_tool="true" visible="true" weight="0.317757" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49796912" weight="0.32914045" />
       <window_info anchor="bottom" id="Grails Console" order="12" weight="0.32502595" />
@@ -998,13 +1018,6 @@
     <entry file="file://$PROJECT_DIR$/grails-app/conf/spring/resources.groovy">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/pontorestapi/CorsInterceptor.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1015,7 +1028,14 @@
     <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/pontorestapi/CorsInterceptor.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>

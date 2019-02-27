@@ -8,7 +8,7 @@ grails:
                 /**:
                     allowedOrigins:
                         - http://localhost:8081
-                        - https://estagio-front.herokuapp.com/
+                        - https://estagio-front.herokuapp.com
     profile: rest-api
     codegen:
         defaultPackage: pontorestapi
