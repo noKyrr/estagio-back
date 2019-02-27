@@ -7,7 +7,7 @@ grails:
             mappings:
                 /**:
                     allowedOrigins:
-                        - *
+                        - "*"
     profile: rest-api
     codegen:
         defaultPackage: pontorestapi

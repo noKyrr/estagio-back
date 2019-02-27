@@ -10,8 +10,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1000106a-3ca9-4d09-bd15-e458ec2a8f39" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grails-app/controllers/pontorestapi/CorsInterceptor.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/grails-app/controllers/pontorestapi/CorsInterceptor.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/AlterarHorarioSubmit.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/AlterarHorarioSubmit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/AlterarHorarioSubmitController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/AlterarHorarioSubmitController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/ApplicationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/ApplicationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/CorsInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/CorsInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Departamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Departamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/DepartamentoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/DepartamentoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Empresa.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Empresa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/EmpresaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/EmpresaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/EmpresasController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/EmpresasController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Feriado.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Feriado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/FeriadoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/FeriadoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Filtro.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Filtro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/FuncionarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/FuncionarioController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Horario.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Horario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/HorarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/HorarioController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/HorarioFuncionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/HorarioFuncionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/HorarioFuncionarioSubmit.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/HorarioFuncionarioSubmit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/JorMensalItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/JorMensalItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/JorMensalItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/JorMensalItemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Jornada.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Jornada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Jornada12x36.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Jornada12x36.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Jornada12x36Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Jornada12x36Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/JornadaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/JornadaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/JornadaMensal.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/JornadaMensal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/JornadaMensalController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/JornadaMensalController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/JornadaSemanal.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/JornadaSemanal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/JornadaSemanalController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/JornadaSemanalController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Justificativa.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Justificativa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/JustificativaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/JustificativaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/LancamentoJustificativa.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/LancamentoJustificativa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/LancamentoJustificativaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/LancamentoJustificativaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/LancamentoOcorrencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/LancamentoOcorrencia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/LancamentoOcorrenciaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/LancamentoOcorrenciaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/LocalDeTrabalho.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/LocalDeTrabalho.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/LocalDeTrabalhoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/LocalDeTrabalhoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Mensagem.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Mensagem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/MensagemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/MensagemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Ocorrencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Ocorrencia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/OcorrenciaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/OcorrenciaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/PerfilJornada.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/PerfilJornada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/PerfilJornadaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/PerfilJornadaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/Relogio.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/Relogio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/pontorestapi/RelogioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/pontorestapi/RelogioController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grails-app/conf/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/grails-app/conf/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -30,11 +80,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="153">
+              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/pontorestapi/UrlMappings.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -51,13 +110,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="153">
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/pontorestapi/CorsInterceptor.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -158,8 +217,8 @@
         <option value="$PROJECT_DIR$/pontoRestApi/build.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/grails-app/conf/application.yml" />
         <option value="$PROJECT_DIR$/grails-app/controllers/pontorestapi/CorsInterceptor.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/application.yml" />
       </list>
     </option>
   </component>
@@ -260,7 +319,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551236736593" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551237557304" />
     <property name="dynamic.classpath" value="true" />
     <property name="grails.last.selected.app.url" value="file://$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -365,12 +424,12 @@
       <workItem from="1549927321008" duration="2000000" />
       <workItem from="1549993358062" duration="44000" />
       <workItem from="1550503803414" duration="5812000" />
-      <workItem from="1551216450980" duration="13943000" />
+      <workItem from="1551216450980" duration="14788000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121615000" />
+    <option name="totallyTimeSpent" value="122460000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -385,7 +444,7 @@
     <frame x="-8" y="-8" width="1843" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25182277" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25182277" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -395,15 +454,15 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49242848" weight="0.29698858" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49186763" visible="true" weight="0.29698858" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3985375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298969" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49715677" weight="0.32914045" />
       <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49959382" weight="0.32914045" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49242848" visible="true" weight="0.317757" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5075715" side_tool="true" visible="true" weight="0.317757" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49242848" weight="0.317757" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50813234" side_tool="true" visible="true" weight="0.29698858" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49796912" weight="0.32914045" />
       <window_info anchor="bottom" id="Grails Console" order="12" weight="0.32502595" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" sideWeight="0.49959382" weight="0.32914045" />
@@ -862,13 +921,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/pontorestapi/UrlMappings.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.3.5/3048aa09d7e5370c91fdd9071fd29a1349a91587/grails-core-3.3.5-sources.jar!/org/grails/core/DefaultGrailsControllerClass.java" />
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/pontorestapi/AlterarHorarioSubmitController.groovy">
       <provider selected="true" editor-type-id="text-editor">
@@ -1001,13 +1053,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/pontorestapi/LoginController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1018,17 +1063,10 @@
     <entry file="file://$PROJECT_DIR$/grails-app/conf/spring/resources.groovy">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/pontorestapi/LoginController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="136">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1036,6 +1074,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/pontorestapi/UrlMappings.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
