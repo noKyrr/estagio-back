@@ -18,8 +18,7 @@ class CorsInterceptor {
 */
 
 
-        response.setHeader("Access-Control-Allow-Origin", "http://localhost:8081");
-        response.setHeader("Access-Control-Allow-Origin", "https://estagio-front.herokuapp.com");
+        response.setHeader("Access-Control-Allow-Origin", "*");
 
         response.setHeader("Access-Control-Allow-Methods",
                 "POST,GET,PUT,OPTIONS,DELETE");
